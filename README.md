@@ -24,7 +24,7 @@ Tableau was used to build a highly interactive dashboard. The dashboard enables 
 3. Explore the data through various charts and graphs to facilitate insights for data-driven decision-making.
 Features
 4. Dynamic Filtering: Apply various filters (product category, region, time period) to explore sales performance.
-5. Interactive Visualizations: A variety of charts such as bar charts, line graphs, and heat maps make it easy to interpret the sales trends.
+5. Interactive Visualizations: A variety of charts such as bar charts and line graphs make it easy to interpret the sales trends.
 6. KPI Highlights: Important metrics like total sales and profit are emphasized for quick analysis.
 
 ### Tools Used
