@@ -16,8 +16,8 @@ The sales data was generated using AI, providing fields such as:
 
 ### Data Organization:
 Google Spreadsheets was used to clean, organize, and prepare the dataset for analysis. Data cleaning involved formatting, filtering, and ensuring data consistency.
-Dashboard Creation:
 
+### Dashboard Creation:
 Tableau was used to build a highly interactive dashboard. The dashboard enables users to:
 1. Filter sales data by product, region, or time period.
 2. Visualize key performance indicators (KPIs) like total revenue, profit margins, and sales trends.
