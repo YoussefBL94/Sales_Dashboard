@@ -1,5 +1,5 @@
 # **Sales Dashboard Project**
-# (https://public.tableau.com/app/profile/youssef.ben.laroussi/viz/salesprojectimprovedyoussef/SalesDashboard)
+# [Project 1 : Sales Dashboard](https://public.tableau.com/app/profile/youssef.ben.laroussi/viz/salesprojectimprovedyoussef/SalesDashboard)
 
 ## *Overview*
 This project involves creating an interactive sales dashboard using a sales dataset generated with AI. The dashboard is designed to help businesses make data-driven decisions by visualizing key sales metrics such as quantity, profit, and total sales.
