@@ -32,6 +32,6 @@ Features
 2. Data Organization: Google Spreadsheets for data cleaning and preparation.
 3. Dashboard Tool: Tableau for creating interactive visualizations.
 
-###Future Improvements
+### Future Improvements
 1. Addition of predictive analytics to forecast future sales.
 2. Integration with real-time sales data sources.
