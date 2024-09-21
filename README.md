@@ -1,4 +1,3 @@
-# **Sales Dashboard Project**
 # [Project 1 : Sales Dashboard](https://public.tableau.com/app/profile/youssef.ben.laroussi/viz/salesprojectimprovedyoussef/SalesDashboard)
 
 ## *Overview*
